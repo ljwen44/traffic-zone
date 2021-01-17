@@ -1,0 +1,128 @@
+{
+  "id": "1615634",
+  "name": "服务外包大赛",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "569291",
+      "name": "svg_location_red",
+      "font_class": "svglocationred",
+      "unicode": "e67e",
+      "unicode_decimal": 59006
+    },
+    {
+      "icon_id": "978419",
+      "name": "起点",
+      "font_class": "qidian",
+      "unicode": "e63b",
+      "unicode_decimal": 58939
+    },
+    {
+      "icon_id": "978452",
+      "name": "终点",
+      "font_class": "zhongdian",
+      "unicode": "e63c",
+      "unicode_decimal": 58940
+    },
+    {
+      "icon_id": "1495216",
+      "name": "走路",
+      "font_class": "zoulu-",
+      "unicode": "e689",
+      "unicode_decimal": 59017
+    },
+    {
+      "icon_id": "3898916",
+      "name": "公交",
+      "font_class": "gongjiao",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "9456818",
+      "name": "md-subway",
+      "font_class": "md-subway",
+      "unicode": "e6c8",
+      "unicode_decimal": 59080
+    },
+    {
+      "icon_id": "9908894",
+      "name": "交通出行",
+      "font_class": "jiaotongchuhang",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "873492",
+      "name": "热力图",
+      "font_class": "relitu",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    },
+    {
+      "icon_id": "7519268",
+      "name": "人口",
+      "font_class": "renkou",
+      "unicode": "e67d",
+      "unicode_decimal": 59005
+    },
+    {
+      "icon_id": "10480261",
+      "name": "散点图",
+      "font_class": "sandiantu",
+      "unicode": "e927",
+      "unicode_decimal": 59687
+    },
+    {
+      "icon_id": "7549818",
+      "name": "锁",
+      "font_class": "RectangleCopy",
+      "unicode": "e6a8",
+      "unicode_decimal": 59048
+    },
+    {
+      "icon_id": "9565921",
+      "name": "admin-line",
+      "font_class": "admin-line",
+      "unicode": "e83d",
+      "unicode_decimal": 59453
+    },
+    {
+      "icon_id": "3050508",
+      "name": "定位",
+      "font_class": "location",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "2077715",
+      "name": "用户",
+      "font_class": "yonghu",
+      "unicode": "e646",
+      "unicode_decimal": 58950
+    },
+    {
+      "icon_id": "2166579",
+      "name": "关闭",
+      "font_class": "guanbi",
+      "unicode": "e6a1",
+      "unicode_decimal": 59041
+    },
+    {
+      "icon_id": "4421930",
+      "name": "时钟",
+      "font_class": "shizhong",
+      "unicode": "e66e",
+      "unicode_decimal": 58990
+    },
+    {
+      "icon_id": "4427384",
+      "name": "关闭",
+      "font_class": "tubiaozhizuomobanyihuifu-",
+      "unicode": "e692",
+      "unicode_decimal": 59026
+    }
+  ]
+}

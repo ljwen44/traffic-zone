@@ -1,0 +1,62 @@
+{
+  "name": "demo",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve --open",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "axios": "^0.19.1",
+    "bootstrap": "^4.4.1",
+    "core-js": "^3.4.3",
+    "echarts": "^4.6.0",
+    "jquery": "^3.4.1",
+    "js-cookie": "^2.2.1",
+    "net": "^1.0.2",
+    "popper.js": "^1.16.0",
+    "sockjs-client": "^1.4.0",
+    "stomp-client": "^0.9.0",
+    "stompjs": "^2.3.3",
+    "vue": "^2.6.10",
+    "vue-router": "^3.1.6",
+    "vuex": "^3.1.2"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^4.1.0",
+    "@vue/cli-plugin-eslint": "^4.1.0",
+    "@vue/cli-service": "^4.1.0",
+    "babel-eslint": "^10.0.3",
+    "eslint": "^5.16.0",
+    "eslint-plugin-vue": "^5.0.0",
+    "mockjs": "^1.1.0",
+    "vue-template-compiler": "^2.6.10",
+    "webpack-dev-server": "^3.10.3"
+  },
+  "eslintConfig": {
+    "root": true,
+    "env": {
+      "node": true
+    },
+    "extends": [
+      "plugin:vue/essential",
+      "eslint:recommended"
+    ],
+    "rules": {
+      "generator-star-spacing": "off",
+      "no-tabs": "off",
+      "no-unused-vars": "off",
+      "no-console": "off",
+      "no-irregular-whitespace": "off",
+      "no-debugger": "off"
+    },
+    "parserOptions": {
+      "parser": "babel-eslint"
+    }
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions"
+  ]
+}

@@ -1,0 +1,24 @@
+@keyframes move
+{
+    0% {top: 0%;}
+    100% {top: 10%;}
+}
+
+@-moz-keyframes move /* Firefox */
+{
+    0% {top: 0%;}
+    100% {top: 10%;}
+}
+
+@-webkit-keyframes move /* Safari 和 Chrome */
+{
+    0% {top: 0%;}
+    100% {top: 10%;}
+}
+
+@-o-keyframes move /* Opera */
+{
+    0% {top: 0%;}
+    100% {top: 10%;}
+}
+

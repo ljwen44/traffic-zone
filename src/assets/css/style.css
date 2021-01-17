@@ -1,0 +1,85 @@
+.rou-active{
+    color: #6bd4fa;
+}
+.map-wrapper{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    left: 0;
+    right: 0;
+    z-index: 0;
+    overflow: hidden;
+}
+.anchorBL{
+    display:none
+}
+.row{
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.ChartStyle{
+    background: -webkit-gradient(linear, 0 0, 0 100%, from(rgba(14, 43, 137, 0.5)), to(rgba(3, 5, 12, 0.5)));
+    border: 5px solid #1046b0;
+    border-radius: 5% 10% 5% 5%;
+    box-shadow: 5px 5px rgba(0, 18, 58, 0.5);
+}
+
+.tipbox{
+    border-radius: 5%;
+    border: 1px solid #0a69cb;
+    /* width: 100%; */
+    background: rgba(9,22,64,.8);
+    z-index: 11111;
+    position: absolute;
+}
+.tip{
+    margin: 5px;
+    color: rgb(33, 85, 199);
+}
+
+.tip p {
+    margin: 0;
+    letter-spacing: 2px;
+    line-height: 1.5;
+}
+.iconfont{
+    margin-right: 5px;
+}
+.icoler{
+    color: red;
+}
+
+/* 高德地图 */
+.amap-logo{
+    display: none;
+    opacity: 0;
+}
+.amap-copyright{
+    display: none;
+}
+
+.amap-marker-label{
+    background-color: transparent;
+    border: none;
+}
+
+
+/* 实时更新提示 */
+.showBox{
+    position: absolute;
+    left: 45%;
+    top: 10%;
+    color: rgb(33, 85, 199);
+    background: rgba(9,22,64,.8);
+    border: 1px solid #0a69cb;
+    width: 10%;
+    text-align: center;
+    animation:move 1.5s;
+    -webkit-animation:move 1.5s;
+}
+
+/* 腾讯地图 */
+.scale-control, .zoom-control, .logo-text{
+    display: none;
+}

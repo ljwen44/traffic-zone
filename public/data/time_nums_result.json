@@ -1,0 +1,1657 @@
+{
+    "barData":[
+        [
+            {
+                "value": 0,
+                "times_interval": "06:00-07:00",
+                "is_peak": 0
+            },
+            {
+                "value": 0,
+                "times_interval": "07:00-08:00",
+                "is_peak": 0
+            },
+            {
+                "value": 0,
+                "times_interval": "08:00-09:00",
+                "is_peak": 0
+            },
+            {
+                "value": 0,
+                "times_interval": "09:00-10:00",
+                "is_peak": 0
+            },
+            {
+                "value": 0,
+                "times_interval": "10:00-11:00",
+                "is_peak": 0
+            },
+            {
+                "value": 0,
+                "times_interval": "11:00-12:00",
+                "is_peak": 0
+            },
+            {
+                "value": 0,
+                "times_interval": "12:00-13:00",
+                "is_peak": 0
+            },
+            {
+                "value": 0,
+                "times_interval": "13:00-14:00",
+                "is_peak": 0
+            },
+            {
+                "value": 0,
+                "times_interval": "14:00-15:00",
+                "is_peak": 0
+            },
+            {
+                "value": 0,
+                "times_interval": "15:00-16:00",
+                "is_peak": 0
+            },
+            {
+                "value": 0,
+                "times_interval": "16:00-17:00",
+                "is_peak": 0
+            },
+            {
+                "value": 0,
+                "times_interval": "17:00-18:00",
+                "is_peak": 0
+            },
+            {
+                "value": 0,
+                "times_interval": "18:00-19:00",
+                "is_peak": 0
+            },
+            {
+                "value": 0,
+                "times_interval": "19:00-20:00",
+                "is_peak": 0
+            },
+            {
+                "value": 0,
+                "times_interval": "20:00-21:00",
+                "is_peak": 0
+            },
+            {
+                "value": 0,
+                "times_interval": "21:00-22:00",
+                "is_peak": 0
+            },
+            {
+                "value": 0,
+                "times_interval": "22:00-23:00",
+                "is_peak": 0
+            }
+        ],
+        [
+            {
+                "value": 787,
+                "times_interval": "06:00-07:00",
+                "is_peak": 0
+            },
+            {
+                "value": 0,
+                "times_interval": "07:00-08:00",
+                "is_peak": 1
+            },
+            {
+                "value": 0,
+                "times_interval": "08:00-09:00",
+                "is_peak": 1
+            },
+            {
+                "value": 0,
+                "times_interval": "09:00-10:00",
+                "is_peak": 1
+            },
+            {
+                "value": 1,
+                "times_interval": "10:00-11:00",
+                "is_peak": 0
+            },
+            {
+                "value": 0,
+                "times_interval": "11:00-12:00",
+                "is_peak": 0
+            },
+            {
+                "value": 0,
+                "times_interval": "12:00-13:00",
+                "is_peak": 0
+            },
+            {
+                "value": 0,
+                "times_interval": "13:00-14:00",
+                "is_peak": 0
+            },
+            {
+                "value": 0,
+                "times_interval": "14:00-15:00",
+                "is_peak": 0
+            },
+            {
+                "value": 0,
+                "times_interval": "15:00-16:00",
+                "is_peak": 0
+            },
+            {
+                "value": 0,
+                "times_interval": "16:00-17:00",
+                "is_peak": 0
+            },
+            {
+                "value": 0,
+                "times_interval": "17:00-18:00",
+                "is_peak": 0
+            },
+            {
+                "value": 0,
+                "times_interval": "18:00-19:00",
+                "is_peak": 1
+            },
+            {
+                "value": 0,
+                "times_interval": "19:00-20:00",
+                "is_peak": 1
+            },
+            {
+                "value": 0,
+                "times_interval": "20:00-21:00",
+                "is_peak": 1
+            },
+            {
+                "value": 0,
+                "times_interval": "21:00-22:00",
+                "is_peak": 0
+            },
+            {
+                "value": 0,
+                "times_interval": "22:00-23:00",
+                "is_peak": 0
+            }
+        ],
+        [
+            {
+                "value": 787,
+                "times_interval": "06:00-07:00",
+                "is_peak": 0
+            },
+            {
+                "value": 1552,
+                "times_interval": "07:00-08:00",
+                "is_peak": 1
+            },
+            {
+                "value": 0,
+                "times_interval": "08:00-09:00",
+                "is_peak": 1
+            },
+            {
+                "value": 0,
+                "times_interval": "09:00-10:00",
+                "is_peak": 1
+            },
+            {
+                "value": 1,
+                "times_interval": "10:00-11:00",
+                "is_peak": 0
+            },
+            {
+                "value": 0,
+                "times_interval": "11:00-12:00",
+                "is_peak": 0
+            },
+            {
+                "value": 0,
+                "times_interval": "12:00-13:00",
+                "is_peak": 0
+            },
+            {
+                "value": 0,
+                "times_interval": "13:00-14:00",
+                "is_peak": 0
+            },
+            {
+                "value": 0,
+                "times_interval": "14:00-15:00",
+                "is_peak": 0
+            },
+            {
+                "value": 0,
+                "times_interval": "15:00-16:00",
+                "is_peak": 0
+            },
+            {
+                "value": 0,
+                "times_interval": "16:00-17:00",
+                "is_peak": 0
+            },
+            {
+                "value": 0,
+                "times_interval": "17:00-18:00",
+                "is_peak": 0
+            },
+            {
+                "value": 0,
+                "times_interval": "18:00-19:00",
+                "is_peak": 1
+            },
+            {
+                "value": 0,
+                "times_interval": "19:00-20:00",
+                "is_peak": 1
+            },
+            {
+                "value": 0,
+                "times_interval": "20:00-21:00",
+                "is_peak": 1
+            },
+            {
+                "value": 0,
+                "times_interval": "21:00-22:00",
+                "is_peak": 0
+            },
+            {
+                "value": 0,
+                "times_interval": "22:00-23:00",
+                "is_peak": 0
+            }
+        ],
+        [
+            {
+                "value": 787,
+                "times_interval": "06:00-07:00",
+                "is_peak": 0
+            },
+            {
+                "value": 1552,
+                "times_interval": "07:00-08:00",
+                "is_peak": 1
+            },
+            {
+                "value": 1663,
+                "times_interval": "08:00-09:00",
+                "is_peak": 1
+            },
+            {
+                "value": 0,
+                "times_interval": "09:00-10:00",
+                "is_peak": 1
+            },
+            {
+                "value": 1,
+                "times_interval": "10:00-11:00",
+                "is_peak": 0
+            },
+            {
+                "value": 0,
+                "times_interval": "11:00-12:00",
+                "is_peak": 0
+            },
+            {
+                "value": 0,
+                "times_interval": "12:00-13:00",
+                "is_peak": 0
+            },
+            {
+                "value": 0,
+                "times_interval": "13:00-14:00",
+                "is_peak": 0
+            },
+            {
+                "value": 0,
+                "times_interval": "14:00-15:00",
+                "is_peak": 0
+            },
+            {
+                "value": 0,
+                "times_interval": "15:00-16:00",
+                "is_peak": 0
+            },
+            {
+                "value": 0,
+                "times_interval": "16:00-17:00",
+                "is_peak": 0
+            },
+            {
+                "value": 0,
+                "times_interval": "17:00-18:00",
+                "is_peak": 0
+            },
+            {
+                "value": 0,
+                "times_interval": "18:00-19:00",
+                "is_peak": 1
+            },
+            {
+                "value": 0,
+                "times_interval": "19:00-20:00",
+                "is_peak": 1
+            },
+            {
+                "value": 0,
+                "times_interval": "20:00-21:00",
+                "is_peak": 1
+            },
+            {
+                "value": 0,
+                "times_interval": "21:00-22:00",
+                "is_peak": 0
+            },
+            {
+                "value": 0,
+                "times_interval": "22:00-23:00",
+                "is_peak": 0
+            }
+        ],
+        [
+            {
+                "value": 787,
+                "times_interval": "06:00-07:00",
+                "is_peak": 0
+            },
+            {
+                "value": 1552,
+                "times_interval": "07:00-08:00",
+                "is_peak": 1
+            },
+            {
+                "value": 1663,
+                "times_interval": "08:00-09:00",
+                "is_peak": 1
+            },
+            {
+                "value": 1697,
+                "times_interval": "09:00-10:00",
+                "is_peak": 1
+            },
+            {
+                "value": 1,
+                "times_interval": "10:00-11:00",
+                "is_peak": 0
+            },
+            {
+                "value": 0,
+                "times_interval": "11:00-12:00",
+                "is_peak": 0
+            },
+            {
+                "value": 0,
+                "times_interval": "12:00-13:00",
+                "is_peak": 0
+            },
+            {
+                "value": 0,
+                "times_interval": "13:00-14:00",
+                "is_peak": 0
+            },
+            {
+                "value": 0,
+                "times_interval": "14:00-15:00",
+                "is_peak": 0
+            },
+            {
+                "value": 0,
+                "times_interval": "15:00-16:00",
+                "is_peak": 0
+            },
+            {
+                "value": 0,
+                "times_interval": "16:00-17:00",
+                "is_peak": 0
+            },
+            {
+                "value": 0,
+                "times_interval": "17:00-18:00",
+                "is_peak": 0
+            },
+            {
+                "value": 0,
+                "times_interval": "18:00-19:00",
+                "is_peak": 1
+            },
+            {
+                "value": 0,
+                "times_interval": "19:00-20:00",
+                "is_peak": 1
+            },
+            {
+                "value": 0,
+                "times_interval": "20:00-21:00",
+                "is_peak": 1
+            },
+            {
+                "value": 0,
+                "times_interval": "21:00-22:00",
+                "is_peak": 0
+            },
+            {
+                "value": 0,
+                "times_interval": "22:00-23:00",
+                "is_peak": 0
+            }
+        ],
+        [
+            {
+                "value": 787,
+                "times_interval": "06:00-07:00",
+                "is_peak": 0
+            },
+            {
+                "value": 1552,
+                "times_interval": "07:00-08:00",
+                "is_peak": 1
+            },
+            {
+                "value": 1663,
+                "times_interval": "08:00-09:00",
+                "is_peak": 1
+            },
+            {
+                "value": 1697,
+                "times_interval": "09:00-10:00",
+                "is_peak": 1
+            },
+            {
+                "value": 845,
+                "times_interval": "10:00-11:00",
+                "is_peak": 0
+            },
+            {
+                "value": 0,
+                "times_interval": "11:00-12:00",
+                "is_peak": 0
+            },
+            {
+                "value": 0,
+                "times_interval": "12:00-13:00",
+                "is_peak": 0
+            },
+            {
+                "value": 0,
+                "times_interval": "13:00-14:00",
+                "is_peak": 0
+            },
+            {
+                "value": 0,
+                "times_interval": "14:00-15:00",
+                "is_peak": 0
+            },
+            {
+                "value": 0,
+                "times_interval": "15:00-16:00",
+                "is_peak": 0
+            },
+            {
+                "value": 0,
+                "times_interval": "16:00-17:00",
+                "is_peak": 0
+            },
+            {
+                "value": 0,
+                "times_interval": "17:00-18:00",
+                "is_peak": 0
+            },
+            {
+                "value": 0,
+                "times_interval": "18:00-19:00",
+                "is_peak": 1
+            },
+            {
+                "value": 0,
+                "times_interval": "19:00-20:00",
+                "is_peak": 1
+            },
+            {
+                "value": 0,
+                "times_interval": "20:00-21:00",
+                "is_peak": 1
+            },
+            {
+                "value": 0,
+                "times_interval": "21:00-22:00",
+                "is_peak": 0
+            },
+            {
+                "value": 0,
+                "times_interval": "22:00-23:00",
+                "is_peak": 0
+            }
+        ],
+        [
+            {
+                "value": 787,
+                "times_interval": "06:00-07:00",
+                "is_peak": 0
+            },
+            {
+                "value": 1552,
+                "times_interval": "07:00-08:00",
+                "is_peak": 1
+            },
+            {
+                "value": 1663,
+                "times_interval": "08:00-09:00",
+                "is_peak": 1
+            },
+            {
+                "value": 1697,
+                "times_interval": "09:00-10:00",
+                "is_peak": 1
+            },
+            {
+                "value": 921,
+                "times_interval": "10:00-11:00",
+                "is_peak": 0
+            },
+            {
+                "value": 753,
+                "times_interval": "11:00-12:00",
+                "is_peak": 0
+            },
+            {
+                "value": 0,
+                "times_interval": "12:00-13:00",
+                "is_peak": 0
+            },
+            {
+                "value": 0,
+                "times_interval": "13:00-14:00",
+                "is_peak": 0
+            },
+            {
+                "value": 0,
+                "times_interval": "14:00-15:00",
+                "is_peak": 0
+            },
+            {
+                "value": 0,
+                "times_interval": "15:00-16:00",
+                "is_peak": 0
+            },
+            {
+                "value": 0,
+                "times_interval": "16:00-17:00",
+                "is_peak": 0
+            },
+            {
+                "value": 0,
+                "times_interval": "17:00-18:00",
+                "is_peak": 0
+            },
+            {
+                "value": 0,
+                "times_interval": "18:00-19:00",
+                "is_peak": 1
+            },
+            {
+                "value": 0,
+                "times_interval": "19:00-20:00",
+                "is_peak": 1
+            },
+            {
+                "value": 0,
+                "times_interval": "20:00-21:00",
+                "is_peak": 1
+            },
+            {
+                "value": 0,
+                "times_interval": "21:00-22:00",
+                "is_peak": 0
+            },
+            {
+                "value": 0,
+                "times_interval": "22:00-23:00",
+                "is_peak": 0
+            }
+        ],
+        [
+            {
+                "value": 787,
+                "times_interval": "06:00-07:00",
+                "is_peak": 0
+            },
+            {
+                "value": 1552,
+                "times_interval": "07:00-08:00",
+                "is_peak": 1
+            },
+            {
+                "value": 1663,
+                "times_interval": "08:00-09:00",
+                "is_peak": 1
+            },
+            {
+                "value": 1697,
+                "times_interval": "09:00-10:00",
+                "is_peak": 1
+            },
+            {
+                "value": 845,
+                "times_interval": "10:00-11:00",
+                "is_peak": 0
+            },
+            {
+                "value": 921,
+                "times_interval": "11:00-12:00",
+                "is_peak": 0
+            },
+            {
+                "value": 0,
+                "times_interval": "12:00-13:00",
+                "is_peak": 0
+            },
+            {
+                "value": 0,
+                "times_interval": "13:00-14:00",
+                "is_peak": 0
+            },
+            {
+                "value": 0,
+                "times_interval": "14:00-15:00",
+                "is_peak": 0
+            },
+            {
+                "value": 0,
+                "times_interval": "15:00-16:00",
+                "is_peak": 0
+            },
+            {
+                "value": 0,
+                "times_interval": "16:00-17:00",
+                "is_peak": 0
+            },
+            {
+                "value": 0,
+                "times_interval": "17:00-18:00",
+                "is_peak": 0
+            },
+            {
+                "value": 0,
+                "times_interval": "18:00-19:00",
+                "is_peak": 1
+            },
+            {
+                "value": 0,
+                "times_interval": "19:00-20:00",
+                "is_peak": 1
+            },
+            {
+                "value": 0,
+                "times_interval": "20:00-21:00",
+                "is_peak": 1
+            },
+            {
+                "value": 0,
+                "times_interval": "21:00-22:00",
+                "is_peak": 0
+            },
+            {
+                "value": 0,
+                "times_interval": "22:00-23:00",
+                "is_peak": 0
+            }
+        ],
+        [
+            {
+                "value": 787,
+                "times_interval": "06:00-07:00",
+                "is_peak": 0
+            },
+            {
+                "value": 1552,
+                "times_interval": "07:00-08:00",
+                "is_peak": 1
+            },
+            {
+                "value": 1663,
+                "times_interval": "08:00-09:00",
+                "is_peak": 1
+            },
+            {
+                "value": 1697,
+                "times_interval": "09:00-10:00",
+                "is_peak": 1
+            },
+            {
+                "value": 845,
+                "times_interval": "10:00-11:00",
+                "is_peak": 0
+            },
+            {
+                "value": 921,
+                "times_interval": "11:00-12:00",
+                "is_peak": 0
+            },
+            {
+                "value": 1024,
+                "times_interval": "12:00-13:00",
+                "is_peak": 0
+            },
+            {
+                "value": 0,
+                "times_interval": "13:00-14:00",
+                "is_peak": 0
+            },
+            {
+                "value": 0,
+                "times_interval": "14:00-15:00",
+                "is_peak": 0
+            },
+            {
+                "value": 0,
+                "times_interval": "15:00-16:00",
+                "is_peak": 0
+            },
+            {
+                "value": 0,
+                "times_interval": "16:00-17:00",
+                "is_peak": 0
+            },
+            {
+                "value": 0,
+                "times_interval": "17:00-18:00",
+                "is_peak": 0
+            },
+            {
+                "value": 0,
+                "times_interval": "18:00-19:00",
+                "is_peak": 1
+            },
+            {
+                "value": 0,
+                "times_interval": "19:00-20:00",
+                "is_peak": 1
+            },
+            {
+                "value": 0,
+                "times_interval": "20:00-21:00",
+                "is_peak": 1
+            },
+            {
+                "value": 0,
+                "times_interval": "21:00-22:00",
+                "is_peak": 0
+            },
+            {
+                "value": 0,
+                "times_interval": "22:00-23:00",
+                "is_peak": 0
+            }
+        ],
+        [
+            {
+                "value": 787,
+                "times_interval": "06:00-07:00",
+                "is_peak": 0
+            },
+            {
+                "value": 1552,
+                "times_interval": "07:00-08:00",
+                "is_peak": 1
+            },
+            {
+                "value": 1663,
+                "times_interval": "08:00-09:00",
+                "is_peak": 1
+            },
+            {
+                "value": 1697,
+                "times_interval": "09:00-10:00",
+                "is_peak": 1
+            },
+            {
+                "value": 845,
+                "times_interval": "10:00-11:00",
+                "is_peak": 0
+            },
+            {
+                "value": 921,
+                "times_interval": "11:00-12:00",
+                "is_peak": 0
+            },
+            {
+                "value": 1024,
+                "times_interval": "12:00-13:00",
+                "is_peak": 0
+            },
+            {
+                "value": 932,
+                "times_interval": "13:00-14:00",
+                "is_peak": 0
+            },
+            {
+                "value": 0,
+                "times_interval": "14:00-15:00",
+                "is_peak": 0
+            },
+            {
+                "value": 0,
+                "times_interval": "15:00-16:00",
+                "is_peak": 0
+            },
+            {
+                "value": 0,
+                "times_interval": "16:00-17:00",
+                "is_peak": 0
+            },
+            {
+                "value": 0,
+                "times_interval": "17:00-18:00",
+                "is_peak": 0
+            },
+            {
+                "value": 0,
+                "times_interval": "18:00-19:00",
+                "is_peak": 1
+            },
+            {
+                "value": 0,
+                "times_interval": "19:00-20:00",
+                "is_peak": 1
+            },
+            {
+                "value": 0,
+                "times_interval": "20:00-21:00",
+                "is_peak": 1
+            },
+            {
+                "value": 0,
+                "times_interval": "21:00-22:00",
+                "is_peak": 0
+            },
+            {
+                "value": 0,
+                "times_interval": "22:00-23:00",
+                "is_peak": 0
+            }
+        ],
+        [
+            {
+                "value": 787,
+                "times_interval": "06:00-07:00",
+                "is_peak": 0
+            },
+            {
+                "value": 1552,
+                "times_interval": "07:00-08:00",
+                "is_peak": 1
+            },
+            {
+                "value": 1663,
+                "times_interval": "08:00-09:00",
+                "is_peak": 1
+            },
+            {
+                "value": 1697,
+                "times_interval": "09:00-10:00",
+                "is_peak": 1
+            },
+            {
+                "value": 845,
+                "times_interval": "10:00-11:00",
+                "is_peak": 0
+            },
+            {
+                "value": 921,
+                "times_interval": "11:00-12:00",
+                "is_peak": 0
+            },
+            {
+                "value": 1024,
+                "times_interval": "12:00-13:00",
+                "is_peak": 0
+            },
+            {
+                "value": 932,
+                "times_interval": "13:00-14:00",
+                "is_peak": 0
+            },
+            {
+                "value": 823,
+                "times_interval": "14:00-15:00",
+                "is_peak": 0
+            },
+            {
+                "value": 0,
+                "times_interval": "15:00-16:00",
+                "is_peak": 0
+            },
+            {
+                "value": 0,
+                "times_interval": "16:00-17:00",
+                "is_peak": 0
+            },
+            {
+                "value": 0,
+                "times_interval": "17:00-18:00",
+                "is_peak": 0
+            },
+            {
+                "value": 0,
+                "times_interval": "18:00-19:00",
+                "is_peak": 1
+            },
+            {
+                "value": 0,
+                "times_interval": "19:00-20:00",
+                "is_peak": 1
+            },
+            {
+                "value": 0,
+                "times_interval": "20:00-21:00",
+                "is_peak": 1
+            },
+            {
+                "value": 0,
+                "times_interval": "21:00-22:00",
+                "is_peak": 0
+            },
+            {
+                "value": 0,
+                "times_interval": "22:00-23:00",
+                "is_peak": 0
+            }
+        ],
+        [
+            {
+                "value": 787,
+                "times_interval": "06:00-07:00",
+                "is_peak": 0
+            },
+            {
+                "value": 1552,
+                "times_interval": "07:00-08:00",
+                "is_peak": 1
+            },
+            {
+                "value": 1663,
+                "times_interval": "08:00-09:00",
+                "is_peak": 1
+            },
+            {
+                "value": 1697,
+                "times_interval": "09:00-10:00",
+                "is_peak": 1
+            },
+            {
+                "value": 845,
+                "times_interval": "10:00-11:00",
+                "is_peak": 0
+            },
+            {
+                "value": 921,
+                "times_interval": "11:00-12:00",
+                "is_peak": 0
+            },
+            {
+                "value": 1024,
+                "times_interval": "12:00-13:00",
+                "is_peak": 0
+            },
+            {
+                "value": 932,
+                "times_interval": "13:00-14:00",
+                "is_peak": 0
+            },
+            {
+                "value": 823,
+                "times_interval": "14:00-15:00",
+                "is_peak": 0
+            },
+            {
+                "value": 887,
+                "times_interval": "15:00-16:00",
+                "is_peak": 0
+            },
+            {
+                "value": 0,
+                "times_interval": "16:00-17:00",
+                "is_peak": 0
+            },
+            {
+                "value": 0,
+                "times_interval": "17:00-18:00",
+                "is_peak": 0
+            },
+            {
+                "value": 0,
+                "times_interval": "18:00-19:00",
+                "is_peak": 1
+            },
+            {
+                "value": 0,
+                "times_interval": "19:00-20:00",
+                "is_peak": 1
+            },
+            {
+                "value": 0,
+                "times_interval": "20:00-21:00",
+                "is_peak": 1
+            },
+            {
+                "value": 0,
+                "times_interval": "21:00-22:00",
+                "is_peak": 0
+            },
+            {
+                "value": 0,
+                "times_interval": "22:00-23:00",
+                "is_peak": 0
+            }
+        ],
+        [
+            {
+                "value": 787,
+                "times_interval": "06:00-07:00",
+                "is_peak": 0
+            },
+            {
+                "value": 1552,
+                "times_interval": "07:00-08:00",
+                "is_peak": 1
+            },
+            {
+                "value": 1663,
+                "times_interval": "08:00-09:00",
+                "is_peak": 1
+            },
+            {
+                "value": 1697,
+                "times_interval": "09:00-10:00",
+                "is_peak": 1
+            },
+            {
+                "value": 845,
+                "times_interval": "10:00-11:00",
+                "is_peak": 0
+            },
+            {
+                "value": 921,
+                "times_interval": "11:00-12:00",
+                "is_peak": 0
+            },
+            {
+                "value": 1024,
+                "times_interval": "12:00-13:00",
+                "is_peak": 0
+            },
+            {
+                "value": 932,
+                "times_interval": "13:00-14:00",
+                "is_peak": 0
+            },
+            {
+                "value": 823,
+                "times_interval": "14:00-15:00",
+                "is_peak": 0
+            },
+            {
+                "value": 887,
+                "times_interval": "15:00-16:00",
+                "is_peak": 0
+            },
+            {
+                "value": 910,
+                "times_interval": "16:00-17:00",
+                "is_peak": 0
+            },
+            {
+                "value": 0,
+                "times_interval": "17:00-18:00",
+                "is_peak": 0
+            },
+            {
+                "value": 0,
+                "times_interval": "18:00-19:00",
+                "is_peak": 1
+            },
+            {
+                "value": 0,
+                "times_interval": "19:00-20:00",
+                "is_peak": 1
+            },
+            {
+                "value": 0,
+                "times_interval": "20:00-21:00",
+                "is_peak": 1
+            },
+            {
+                "value": 0,
+                "times_interval": "21:00-22:00",
+                "is_peak": 0
+            },
+            {
+                "value": 0,
+                "times_interval": "22:00-23:00",
+                "is_peak": 0
+            }
+        ],
+        [
+            {
+                "value": 787,
+                "times_interval": "06:00-07:00",
+                "is_peak": 0
+            },
+            {
+                "value": 1552,
+                "times_interval": "07:00-08:00",
+                "is_peak": 1
+            },
+            {
+                "value": 1663,
+                "times_interval": "08:00-09:00",
+                "is_peak": 1
+            },
+            {
+                "value": 1697,
+                "times_interval": "09:00-10:00",
+                "is_peak": 1
+            },
+            {
+                "value": 845,
+                "times_interval": "10:00-11:00",
+                "is_peak": 0
+            },
+            {
+                "value": 921,
+                "times_interval": "11:00-12:00",
+                "is_peak": 0
+            },
+            {
+                "value": 1024,
+                "times_interval": "12:00-13:00",
+                "is_peak": 0
+            },
+            {
+                "value": 932,
+                "times_interval": "13:00-14:00",
+                "is_peak": 0
+            },
+            {
+                "value": 823,
+                "times_interval": "14:00-15:00",
+                "is_peak": 0
+            },
+            {
+                "value": 887,
+                "times_interval": "15:00-16:00",
+                "is_peak": 0
+            },
+            {
+                "value": 910,
+                "times_interval": "16:00-17:00",
+                "is_peak": 0
+            },
+            {
+                "value": 1107,
+                "times_interval": "17:00-18:00",
+                "is_peak": 0
+            },
+            {
+                "value": 0,
+                "times_interval": "18:00-19:00",
+                "is_peak": 1
+            },
+            {
+                "value": 0,
+                "times_interval": "19:00-20:00",
+                "is_peak": 1
+            },
+            {
+                "value": 0,
+                "times_interval": "20:00-21:00",
+                "is_peak": 1
+            },
+            {
+                "value": 0,
+                "times_interval": "21:00-22:00",
+                "is_peak": 0
+            },
+            {
+                "value": 0,
+                "times_interval": "22:00-23:00",
+                "is_peak": 0
+            }
+        ],
+        [
+            {
+                "value": 787,
+                "times_interval": "06:00-07:00",
+                "is_peak": 0
+            },
+            {
+                "value": 1552,
+                "times_interval": "07:00-08:00",
+                "is_peak": 1
+            },
+            {
+                "value": 1663,
+                "times_interval": "08:00-09:00",
+                "is_peak": 1
+            },
+            {
+                "value": 1697,
+                "times_interval": "09:00-10:00",
+                "is_peak": 1
+            },
+            {
+                "value": 845,
+                "times_interval": "10:00-11:00",
+                "is_peak": 0
+            },
+            {
+                "value": 921,
+                "times_interval": "11:00-12:00",
+                "is_peak": 0
+            },
+            {
+                "value": 1024,
+                "times_interval": "12:00-13:00",
+                "is_peak": 0
+            },
+            {
+                "value": 932,
+                "times_interval": "13:00-14:00",
+                "is_peak": 0
+            },
+            {
+                "value": 823,
+                "times_interval": "14:00-15:00",
+                "is_peak": 0
+            },
+            {
+                "value": 887,
+                "times_interval": "15:00-16:00",
+                "is_peak": 0
+            },
+            {
+                "value": 910,
+                "times_interval": "16:00-17:00",
+                "is_peak": 0
+            },
+            {
+                "value": 1107,
+                "times_interval": "17:00-18:00",
+                "is_peak": 0
+            },
+            {
+                "value": 1621,
+                "times_interval": "18:00-19:00",
+                "is_peak": 1
+            },
+            {
+                "value": 0,
+                "times_interval": "19:00-20:00",
+                "is_peak": 1
+            },
+            {
+                "value": 0,
+                "times_interval": "20:00-21:00",
+                "is_peak": 1
+            },
+            {
+                "value": 0,
+                "times_interval": "21:00-22:00",
+                "is_peak": 0
+            },
+            {
+                "value": 0,
+                "times_interval": "22:00-23:00",
+                "is_peak": 0
+            }
+        ],
+        [
+            {
+                "value": 787,
+                "times_interval": "06:00-07:00",
+                "is_peak": 0
+            },
+            {
+                "value": 1552,
+                "times_interval": "07:00-08:00",
+                "is_peak": 1
+            },
+            {
+                "value": 1663,
+                "times_interval": "08:00-09:00",
+                "is_peak": 1
+            },
+            {
+                "value": 1697,
+                "times_interval": "09:00-10:00",
+                "is_peak": 1
+            },
+            {
+                "value": 845,
+                "times_interval": "10:00-11:00",
+                "is_peak": 0
+            },
+            {
+                "value": 921,
+                "times_interval": "11:00-12:00",
+                "is_peak": 0
+            },
+            {
+                "value": 1024,
+                "times_interval": "12:00-13:00",
+                "is_peak": 0
+            },
+            {
+                "value": 932,
+                "times_interval": "13:00-14:00",
+                "is_peak": 0
+            },
+            {
+                "value": 823,
+                "times_interval": "14:00-15:00",
+                "is_peak": 0
+            },
+            {
+                "value": 887,
+                "times_interval": "15:00-16:00",
+                "is_peak": 0
+            },
+            {
+                "value": 910,
+                "times_interval": "16:00-17:00",
+                "is_peak": 0
+            },
+            {
+                "value": 1107,
+                "times_interval": "17:00-18:00",
+                "is_peak": 0
+            },
+            {
+                "value": 1621,
+                "times_interval": "18:00-19:00",
+                "is_peak": 1
+            },
+            {
+                "value": 1663,
+                "times_interval": "19:00-20:00",
+                "is_peak": 1
+            },
+            {
+                "value": 0,
+                "times_interval": "20:00-21:00",
+                "is_peak": 1
+            },
+            {
+                "value": 0,
+                "times_interval": "21:00-22:00",
+                "is_peak": 0
+            },
+            {
+                "value": 0,
+                "times_interval": "22:00-23:00",
+                "is_peak": 0
+            }
+        ],
+        [
+            {
+                "value": 787,
+                "times_interval": "06:00-07:00",
+                "is_peak": 0
+            },
+            {
+                "value": 1552,
+                "times_interval": "07:00-08:00",
+                "is_peak": 1
+            },
+            {
+                "value": 1663,
+                "times_interval": "08:00-09:00",
+                "is_peak": 1
+            },
+            {
+                "value": 1697,
+                "times_interval": "09:00-10:00",
+                "is_peak": 1
+            },
+            {
+                "value": 845,
+                "times_interval": "10:00-11:00",
+                "is_peak": 0
+            },
+            {
+                "value": 921,
+                "times_interval": "11:00-12:00",
+                "is_peak": 0
+            },
+            {
+                "value": 1024,
+                "times_interval": "12:00-13:00",
+                "is_peak": 0
+            },
+            {
+                "value": 932,
+                "times_interval": "13:00-14:00",
+                "is_peak": 0
+            },
+            {
+                "value": 823,
+                "times_interval": "14:00-15:00",
+                "is_peak": 0
+            },
+            {
+                "value": 887,
+                "times_interval": "15:00-16:00",
+                "is_peak": 0
+            },
+            {
+                "value": 910,
+                "times_interval": "16:00-17:00",
+                "is_peak": 0
+            },
+            {
+                "value": 1107,
+                "times_interval": "17:00-18:00",
+                "is_peak": 0
+            },
+            {
+                "value": 1621,
+                "times_interval": "18:00-19:00",
+                "is_peak": 1
+            },
+            {
+                "value": 1663,
+                "times_interval": "19:00-20:00",
+                "is_peak": 1
+            },
+            {
+                "value": 1422,
+                "times_interval": "20:00-21:00",
+                "is_peak": 1
+            },
+            {
+                "value": 0,
+                "times_interval": "21:00-22:00",
+                "is_peak": 0
+            },
+            {
+                "value": 0,
+                "times_interval": "22:00-23:00",
+                "is_peak": 0
+            }
+        ],
+        [
+            {
+                "value": 787,
+                "times_interval": "06:00-07:00",
+                "is_peak": 0
+            },
+            {
+                "value": 1552,
+                "times_interval": "07:00-08:00",
+                "is_peak": 1
+            },
+            {
+                "value": 1663,
+                "times_interval": "08:00-09:00",
+                "is_peak": 1
+            },
+            {
+                "value": 1697,
+                "times_interval": "09:00-10:00",
+                "is_peak": 1
+            },
+            {
+                "value": 845,
+                "times_interval": "10:00-11:00",
+                "is_peak": 0
+            },
+            {
+                "value": 921,
+                "times_interval": "11:00-12:00",
+                "is_peak": 0
+            },
+            {
+                "value": 1024,
+                "times_interval": "12:00-13:00",
+                "is_peak": 0
+            },
+            {
+                "value": 932,
+                "times_interval": "13:00-14:00",
+                "is_peak": 0
+            },
+            {
+                "value": 823,
+                "times_interval": "14:00-15:00",
+                "is_peak": 0
+            },
+            {
+                "value": 887,
+                "times_interval": "15:00-16:00",
+                "is_peak": 0
+            },
+            {
+                "value": 910,
+                "times_interval": "16:00-17:00",
+                "is_peak": 0
+            },
+            {
+                "value": 1107,
+                "times_interval": "17:00-18:00",
+                "is_peak": 0
+            },
+            {
+                "value": 1621,
+                "times_interval": "18:00-19:00",
+                "is_peak": 1
+            },
+            {
+                "value": 1663,
+                "times_interval": "19:00-20:00",
+                "is_peak": 1
+            },
+            {
+                "value": 1422,
+                "times_interval": "20:00-21:00",
+                "is_peak": 1
+            },
+            {
+                "value": 902,
+                "times_interval": "21:00-22:00",
+                "is_peak": 0
+            },
+            {
+                "value": 0,
+                "times_interval": "22:00-23:00",
+                "is_peak": 0
+            }
+        ],
+        [
+            {
+                "value": 787,
+                "times_interval": "06:00-07:00",
+                "is_peak": 0
+            },
+            {
+                "value": 1552,
+                "times_interval": "07:00-08:00",
+                "is_peak": 1
+            },
+            {
+                "value": 1663,
+                "times_interval": "08:00-09:00",
+                "is_peak": 1
+            },
+            {
+                "value": 1697,
+                "times_interval": "09:00-10:00",
+                "is_peak": 1
+            },
+            {
+                "value": 845,
+                "times_interval": "10:00-11:00",
+                "is_peak": 0
+            },
+            {
+                "value": 921,
+                "times_interval": "11:00-12:00",
+                "is_peak": 0
+            },
+            {
+                "value": 1024,
+                "times_interval": "12:00-13:00",
+                "is_peak": 0
+            },
+            {
+                "value": 932,
+                "times_interval": "13:00-14:00",
+                "is_peak": 0
+            },
+            {
+                "value": 823,
+                "times_interval": "14:00-15:00",
+                "is_peak": 0
+            },
+            {
+                "value": 887,
+                "times_interval": "15:00-16:00",
+                "is_peak": 0
+            },
+            {
+                "value": 910,
+                "times_interval": "16:00-17:00",
+                "is_peak": 0
+            },
+            {
+                "value": 1107,
+                "times_interval": "17:00-18:00",
+                "is_peak": 0
+            },
+            {
+                "value": 1621,
+                "times_interval": "18:00-19:00",
+                "is_peak": 1
+            },
+            {
+                "value": 1663,
+                "times_interval": "19:00-20:00",
+                "is_peak": 1
+            },
+            {
+                "value": 1422,
+                "times_interval": "20:00-21:00",
+                "is_peak": 1
+            },
+            {
+                "value": 902,
+                "times_interval": "21:00-22:00",
+                "is_peak": 0
+            },
+            {
+                "value": 726,
+                "times_interval": "22:00-23:00",
+                "is_peak": 0
+            }
+        ]
+    ]
+}
