@@ -16,13 +16,11 @@
       </div>
     </div>
     <div class="legend">
-      <ul>
-        <li><img src="../assets/image/1.png" alt="" /><span style="color: #00beff;">畅行</span></li>
-        <li><img src="../assets/image/2.png" alt="" /><span style="color: #5b00ff;">畅通</span></li>
-        <li><img src="../assets/image/3.png" alt="" /><span style="color: #fff100;">阻塞</span></li>
-        <li><img src="../assets/image/4.png" alt="" /><span style="color: #ed8800;">拥堵</span></li>
-        <li><img src="../assets/image/5.png" alt="" /><span style="color: #f00;">堵塞</span></li>
-        <li><img src="../assets/image/6.png" alt="" /><span style="color: #fff;">异常</span></li>
+      <ul class="legend-list">
+        <li v-for="item in legend" :key="item.label">
+          <i class="iconfont iconzuobiao" :style="{ color: item.color }"></i>
+          <span :style="{ color: item.color }">{{ item.label }}</span>
+        </li>
       </ul>
     </div>
   </div>
@@ -53,6 +51,14 @@ export default {
       times: 0, // 循环次数
       data: [],  // 数据集合
       timer: null, // 计时器
+      legend: [
+        { label: '畅行', color: '#00beff' },
+        { label: '畅通', color: '#5b00ff' },
+        { label: '阻塞', color: '#fff100' },
+        { label: '拥堵', color: '#ed8800' },
+        { label: '堵塞', color: '#f00' },
+        { label: '异常', color: '#fff' }
+      ]
     }
   },
   components: {
@@ -249,9 +255,10 @@ export default {
 }
 .legend li{
   list-style: none;
+  display: flex;
+  align-items: center;
 }
-.legend img{
-  width: 20px;
-  height: 20px;
+.legend li i {
+  font-size: 24px;
 }
 </style>

@@ -4,13 +4,12 @@ import router from './router'
 import store from './store'
 import axios from 'axios'
 
-import './plugins/elements.js' // 引入第三方组件库
+import './assets/css/init.css'
 
 import 'bootstrap/dist/css/bootstrap.min.css'
 import 'bootstrap/dist/js/bootstrap.js'
-import '@/assets/css/style.css'
-import '@/assets/css/animation.css'
-import '@/assets/iconfont/iconfont.css'
+
+// import '@/assets/iconfont/iconfont.css'
 
 
 

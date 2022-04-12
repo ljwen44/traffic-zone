@@ -16,13 +16,14 @@
 .row{
     margin-left: 0;
     margin-right: 0;
+    align-items: flex-start;
 }
 
 .ChartStyle{
     background: -webkit-gradient(linear, 0 0, 0 100%, from(rgba(14, 43, 137, 0.5)), to(rgba(3, 5, 12, 0.5)));
-    border: 5px solid #1046b0;
-    border-radius: 5% 10% 5% 5%;
+    border: 2px solid #1046b0;
     box-shadow: 5px 5px rgba(0, 18, 58, 0.5);
+    border-radius: 10px;
 }
 
 .tipbox{

@@ -35,7 +35,6 @@
 
 <script>
 import bar from '_c/bar.vue'
-import { mapActions } from 'vuex'
 let AMap = window.AMap, Loca = window.Loca
 export default {
   name: 'mapCharts',
@@ -232,8 +231,8 @@ export default {
   width: 30%;
 }
 .top{
-  border: 5px solid #1046b0;
-  border-radius: 5% 10% 5% 5%;
+  border: 2px solid #1046b0;
+  border-radius: 10px;
   height: 250px;
   box-shadow: 5px 5px rgba(0, 18, 58, 0.5);
   overflow: auto;

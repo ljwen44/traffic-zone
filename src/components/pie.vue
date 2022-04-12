@@ -3,8 +3,6 @@
 </template>
 
 <script>
-import { mapState, mapActions, mapMutations } from 'vuex'
-
 let pieChart = null
 let option = {
     title: {

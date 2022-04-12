@@ -1,10 +1,6 @@
 <template>
   <div id="wrapper" class="wrapper">
       <div class="mask"></div>
-    <!-- <div class="bg_vid" @contextmenu.prevent="">
-        <div class="mask"></div>
-        <video src="../assets/video/video.mp4" autoplay loop width="100%" height="100%" muted ref="video"></video>
-    </div> -->
     
     <div class="formClass">
         <div class="title">
@@ -54,8 +50,8 @@ export default {
     name: 'login_page',
     data(){
         return {
-            user: '',
-            password: ''
+            user: 'admin',
+            password: 'admin'
         }
     },
     mounted(){

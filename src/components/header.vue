@@ -4,18 +4,18 @@
       <div class="left">
         <div class="left1">
           <router-link to="/heatMap" tag="div" class="left_child">
-            <h6 class="iconfont icon-relitu"></h6>
+            <h6 class="iconfont iconrelitu"></h6>
             <h6>交通热力图</h6>
           </router-link></div>
         <div class="left2">
           <router-link to="/scatterMap" tag="div" class="left_child">
-            <h6 class="iconfont icon-sandiantu"></h6>
+            <h6 class="iconfont iconsandiantu"></h6>
             <h6>人口分布图</h6>
           </router-link>
         </div>
         <div class="left3">
           <router-link to="/lineMap" tag="div" class="left_child">
-            <h6 class="iconfont icon-location" style="padding-left: 5%;"></h6>
+            <h6 class="iconfont iconlocation1" style="padding-left: 5%;"></h6>
             <h6>人口流动图</h6>
           </router-link>
         </div>
@@ -24,12 +24,12 @@
         <img src="../assets/image/header.png" alt="">
       </div>
       <div class="right">
+        <div class="right2">
+          <span class="time">{{ nowDate + ' ' + nowTime + ' ' + nowWeek }}</span>
+        </div>
         <div class="right1">
           <i class="iconfont icon-guanbi"></i>
           <span @click="layout()">退出</span>
-        </div>
-        <div class="right2">
-          <span class="time">{{ nowDate + ' ' + nowTime + ' ' + nowWeek }}</span>
         </div>
       </div>
     </div>
@@ -120,13 +120,11 @@ h6{
 }
 .left{
   width: 33%;
-  float: left;
+  display: flex;
+  align-items: center;
 }
 .left1{
-  margin-top: 2%;
-  height: 70%;
   width: 33.3333%;
-  float: left;
   position: relative;
 }
 .left1::after{
@@ -139,7 +137,6 @@ h6{
   z-index: -1;
   transform: skewX(45deg);
   width: 100%;
-  height: 100%;
 }
 .left_child{
   height: 100%;
@@ -153,13 +150,13 @@ h6{
   margin-left: 3%;
 }
 
+.left1 .iconfont {
+  margin-left: 10% !important;
+}
+
 .left2{
-  height: 100%;
-  height: 70%;
   width: 33.3333%;
-  float: left;
   position: relative;
-  margin-top: 2%;
 }
 .left2::after{
   position:absolute;
@@ -171,14 +168,10 @@ h6{
   z-index: -1;
   transform: skewX(45deg);
   width: 100%;
-  height: 100%;
 }
 
 .left3{
-  height: 70%;
   width: 33.3333%;
-  float: left;
-  margin-top: 2%;
   position: relative;
 }
 
@@ -192,7 +185,6 @@ h6{
   z-index: -1;
   transform: skewX(45deg);
   width: 100%;
-  height: 100%;
 }
 .left_child:nth-child(3) h6:nth-child(1){
   margin-left: 5%;
@@ -201,7 +193,6 @@ h6{
 
 .middle{
   width: 40%;
-  float: left;
 }
 .middle img{
   width: 100%;
@@ -209,13 +200,12 @@ h6{
 
 .right{
   width: 27%;
-  float: left;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
 }
 .right1{
-  margin-top: 2%;
-  height: 70%;
   width: 28%;
-  float: right;
   position: relative;
   line-height: 3;
   text-align: center;
@@ -235,12 +225,9 @@ h6{
   z-index: -1;
   transform: skewX(-45deg);
   width: 100%;
-  height: 100%;
 }
 
 .right2{
-  float: right;
-  margin-top: 2%;
   height: 70%;
   width: 60%;
   line-height: 3;
@@ -256,7 +243,6 @@ h6{
   z-index: -1;
   transform: skewX(-45deg);
   width: 100%;
-  height: 100%;
 }
 
 </style>
