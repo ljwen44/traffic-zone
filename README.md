@@ -26,22 +26,22 @@ npm run serve
 
 ##### 1、登录页面
 
-![登录界面](src/assets/image/login.png)
+![登录界面](public/images/login.png)
 
 
 
 ##### 2、热力图
 
-![热力图](src/assets/image/heatMap.jpg)
+![热力图](public/images/heatMap.jpg)
 
 
 
 ##### 3、散点图
 
-![散点图](src/assets/image/scatter.jpg)
+![散点图](public/images/scatter.jpg)
 
 
 
 ##### 4、连接图
 
-![连接图](src/assets/image/lineMap.jpg)
+![连接图](public/images/lineMap.jpg)
